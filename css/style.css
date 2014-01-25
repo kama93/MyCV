@@ -1,0 +1,27 @@
+body {
+	font-family: Ubuntu, Tahoma, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	padding: 1em;
+	font-size: 12px;
+}
+
+.pb-header {
+	text-align: right;
+}
+
+h1 {	
+	background-color: #7E97AD;
+	padding: 0.5em;
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+
+h2 {	
+	color: #7E97AD;
+	font-size: 18px;
+}
+
+.pb-h2-right {
+	color: #333;
+	font-weight: bold;
+}
