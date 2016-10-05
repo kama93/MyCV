@@ -3,10 +3,6 @@ body {
 	padding: 1em;	
 }
 
-.pb-header {
-	text-align: right;
-}
-
 h1 {	
 	background-color: #7E97AD;
 	padding: 0.5em;
@@ -20,24 +16,29 @@ h2 {
 	font-size: 18px;
 }
 
-.pb-h2-right {
+.pb-section {
+	padding: 5px;
+}
+
+.pb-section-title {
+	margin-top: 15px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #7E97AD;
+}
+
+.pb-header {
+	text-align: right;
+}
+
+
+
+.pb-section-subtitle {
 	color: #333;
 	font-weight: bold;
+	font-size: 16px;
 }
 
 .pb-separator {
 	height: 2px;
 	background-color: #7E97AD;
-}
-
-.u-margin-top-lg {
-	margin-top: 200px;
-}
-
-.u-margin-top-md {
-	margin-top: 25px;
-}
-
-.pb-todo {
-	color: #b00;
 }
